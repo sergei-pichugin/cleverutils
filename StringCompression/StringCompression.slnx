@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="StringCompression.csproj" />
+  <Project Path="Compressor/Compressor.csproj" />
+  <Project Path="CompressorService.Tests/CompressorService.Tests.csproj" />
+  <Project Path="CompressorService/CompressorService.csproj" />
 </Solution>
