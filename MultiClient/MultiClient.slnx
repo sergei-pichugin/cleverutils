@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="MultiClient.csproj" />
+  <Project Path="Counter/Counter.csproj" Id="8e4ac803-f515-4d19-b78f-894fd91fd0ed" />
+  <Project Path="CounterService.Tests/CounterService.Tests.csproj" Id="4084f919-e418-4aa1-a7d9-be6e304da2ae" />
+  <Project Path="CounterService/CounterService.csproj" Id="84bf7a06-0052-4b09-8b4b-7fd4d6b0585e" />
 </Solution>
