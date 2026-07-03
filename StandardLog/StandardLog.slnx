@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="StandardLog.csproj" />
+  <Project Path="Log/Log.csproj" Id="8790ecb5-5fba-47eb-9446-24f2dc4388a3" />
+  <Project Path="LogService.Tests/LogService.Tests.csproj" Id="74641f13-5a0f-418d-8abb-15b418566f1e" />
+  <Project Path="LogService/LogService.csproj" Id="15329881-47ea-44a8-b9e1-8fcba03ce38b" />
 </Solution>
